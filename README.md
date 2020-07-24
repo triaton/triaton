@@ -1,1 +1,1 @@
-![](./assets/angular.png)
+![](assets/angular.png)
